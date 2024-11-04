@@ -1,4 +1,4 @@
-# U6S5 - Object Interaction
+# U7S5 - Object Interaction
 
 * Part A - Foundations 7.5
 * Part B - Foundations Practice
